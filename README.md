@@ -57,3 +57,4 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 
 
 ## Analysed File
+https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20Product%20Review%20Analysis.xlsx
