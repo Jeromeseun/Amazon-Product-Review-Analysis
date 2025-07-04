@@ -72,8 +72,17 @@ https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20
 
 <img width="646" alt="AMAZON DASBOARD 2" src="https://github.com/user-attachments/assets/32836ab3-052d-485f-81d0-4c19647fa2f9" />
 
-##About me
+## About me
 **JEROME Oluwaseun Oluwastosin**
 
 Digital Forensics Analyst | Data Analyst | Pastor | Intelligence Analyst | Investigator
+
 I am Passionate about Statistics and exploring Data for intelligent and actionable decision making.
+
+
+## Contact
+**-Email: jeromeseun@yahoo.com**
+
+**-Phone Number: +2348038614506**
+
+**Linkedin: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7tCsH8yAR92amnp9RWkL%2BA%3D%3D**
