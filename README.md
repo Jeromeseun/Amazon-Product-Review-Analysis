@@ -36,3 +36,7 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
     - Review content (aggregated in some columns)
 
     - Revenue potential fields (derived)
+ 
+  ## Analysis Tasks and Solution
+  |Nos| Task | Solutiion/ Tools used|
+  |---|-------|----------------------|
