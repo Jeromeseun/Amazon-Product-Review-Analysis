@@ -21,13 +21,13 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 
 - The column Fields pertinent to the analysis included:
 
-Product name
+    - Product name
 
-Product Category
+    - Product Category
 
-Actual price & Discounted price
+    - Actual price & Discounted price
 
-Discount %
+    - Discount %
 
 Rating
 
