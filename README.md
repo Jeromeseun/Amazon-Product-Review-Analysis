@@ -17,9 +17,9 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 
 - Source: Web-scraped Amazon product review data
 
-Each row represents: A unique product details
+- Each row represents: A unique product details
 
-The column Fields pertinent to the analysis included:
+- The column Fields pertinent to the analysis included:
 
 Product name
 
