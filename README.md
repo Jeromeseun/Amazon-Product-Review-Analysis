@@ -19,7 +19,7 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 
 - Each row represents: A unique product details
 
-- The column Fields pertinent to the analysis included:
+- **The column Fields pertinent to the analysis included:**
 
     - Product name
 
@@ -72,4 +72,8 @@ https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20
 
 <img width="646" alt="AMAZON DASBOARD 2" src="https://github.com/user-attachments/assets/32836ab3-052d-485f-81d0-4c19647fa2f9" />
 
+##About me
+**JEROME Oluwaseun Oluwastosin**
 
+Digital Forensics Analyst | Data Analyst | Pastor | Intelligence Analyst | Investigator
+I am Passionate about Statistics and exploring Data for intelligent and actionable decision making.
