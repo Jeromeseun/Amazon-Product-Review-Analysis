@@ -38,5 +38,6 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
     - Revenue potential fields (derived)
  
   ## Analysis Tasks and Solution
-  |Nos| Task | Solutiion/ Tools used|
-  |---|-------|----------------------|
+|Nos| Task | Solution/ Tools used|
+|---|-------|----------------------|
+|1| What is the average discount percentage by product category|
