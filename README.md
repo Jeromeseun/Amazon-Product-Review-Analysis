@@ -58,3 +58,18 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 
 ## Analysed File
 https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20Product%20Review%20Analysis.xlsx
+
+
+
+## Visual Dashboard
+<img width="959" alt="AMAZON NORMALIZED DATA" src="https://github.com/user-attachments/assets/6571eca3-c362-4d7f-b2c8-a68b5a950adf" />
+
+
+<img width="938" alt="AMAZON PIVOT TABLE" src="https://github.com/user-attachments/assets/fc26cf59-5730-4b70-97a8-e05860a4ec08" />
+
+
+<img width="647" alt="AMAZON DASBOARD" src="https://github.com/user-attachments/assets/91f64cdd-34f0-424e-a567-1759937f4e97" />
+
+<img width="646" alt="AMAZON DASBOARD 2" src="https://github.com/user-attachments/assets/32836ab3-052d-485f-81d0-4c19647fa2f9" />
+
+
