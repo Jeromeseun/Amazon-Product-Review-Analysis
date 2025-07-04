@@ -74,7 +74,7 @@ https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20
 
 
 ## Tools Used
-**-Microsoft Excel**
+-**Microsoft Excel**
 
     -Power Query Editor
     
