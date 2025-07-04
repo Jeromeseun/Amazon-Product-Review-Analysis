@@ -85,4 +85,4 @@ I am Passionate about Statistics and exploring Data for intelligent and actionab
 
 **-Phone Number: +2348038614506**
 
-**Linkedin: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7tCsH8yAR92amnp9RWkL%2BA%3D%3D**
+**Linkedin: https://www.linkedin.com/in/oluwaseun-jerome-5b7656147**
