@@ -54,3 +54,6 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 |12| How many products have fewer than 1,000 reviews?|	Added Conditional Column + Column Chart
 |13| Categories with highest average discount?|	Sorted Pivot Table by Discount%
 |14| Top 5 products by combined review count and rating| Pivot, Sum of rating, Count of reviews.
+
+
+#Analysed File
