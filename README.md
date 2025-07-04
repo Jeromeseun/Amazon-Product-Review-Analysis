@@ -72,6 +72,16 @@ https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20
 
 <img width="646" alt="AMAZON DASBOARD 2" src="https://github.com/user-attachments/assets/32836ab3-052d-485f-81d0-4c19647fa2f9" />
 
+
+## Tools Used
+**-Microsoft Excel**
+    -Power Query Editor
+    -Pivot Table
+    -Data Visualization tool: Line, Pie, Bar, Donut Charts)
+    -Conditional Formating
+    -Table references
+
+
 ## About me
 **JEROME Oluwaseun Oluwastosin**
 
