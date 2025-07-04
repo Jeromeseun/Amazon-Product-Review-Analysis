@@ -27,12 +27,12 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 
     - Actual price & Discounted price
 
-    - Discount %
+    - Discount Percentage %
 
-Rating
+    - Rating
 
-Number of Ratings (Rating Count)
+    - Number of Ratings (Rating Count)
 
-Review content (aggregated in some columns)
+    - Review content (aggregated in some columns)
 
-Revenue potential fields (derived)
+    - Revenue potential fields (derived)
