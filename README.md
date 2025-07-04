@@ -42,7 +42,7 @@ Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatti
 |---|-------|----------------------|
 |1| What is the average discount percentage by product category| Pivot Table, Average formula
 |2| How many products are listed under each category?|	Pivot Table + Count of product name
-|3|	What is the total number of reviews per category?|	pivot + Count of Review
+|3|	What is the total number of reviews per category?|	Pivot + Count of Review
 |4| Which products have the highest average ratings?|	Sorting based on calculated Average Rating on pivot table
 |5|	What is the actual vs discounted price by category?|	Grouped Bar Chart + Pivot Summary
 |6|	Which products have the highest number of reviews?|	Top-# Analysis using Sorting + Pivot Table
