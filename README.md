@@ -9,3 +9,18 @@ Sector: E-commerce Analytics
 Analyst Role: Junior Data Analyst
 
 Analysis Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers)
+
+## Dataset Description
+Total Records: 1,465
+Columns: 16
+Source: Web-scraped Amazon product review data
+Each row represents: A unique product
+Fields included:
+Product name
+Category
+Actual price & Discounted price
+Discount %
+Rating
+Number of Ratings (Rating Count)
+Review content (aggregated in some columns)
+Revenue potential fields (derived)
