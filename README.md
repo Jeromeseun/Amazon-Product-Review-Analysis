@@ -75,10 +75,15 @@ https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20
 
 ## Tools Used
 **-Microsoft Excel**
+
     -Power Query Editor
+    
     -Pivot Table
+    
     -Data Visualization tool: Line, Pie, Bar, Donut Charts)
+    
     -Conditional Formating
+    
     -Table references
 
 
