@@ -88,7 +88,7 @@ https://github.com/Jeromeseun/Amazon-Product-Review-Analysis/blob/main/Amazon%20
 
 
 ## About me
-**JEROME Oluwaseun Oluwastosin**
+**JEROME Oluwaseun Oluwatosin**
 
 Digital Forensics Analyst | Data Analyst | Pastor | Intelligence Analyst | Investigator
 
